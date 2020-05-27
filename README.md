@@ -1,2 +1,2 @@
 # blonde-for-actuator
-simple jokes web app
+simple jokes web app (Spring Framework)
