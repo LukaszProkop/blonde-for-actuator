@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
+//@Component
 public class ListOfJokes {
 
     private List<String> quotes = new ArrayList<>(38);
