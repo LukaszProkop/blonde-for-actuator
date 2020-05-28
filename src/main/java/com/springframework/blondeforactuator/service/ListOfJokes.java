@@ -1,12 +1,12 @@
 package com.springframework.blondeforactuator.service;
 
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
-@Service
+@Component
 public class ListOfJokes {
 
     private List<String> quotes = new ArrayList<>(38);
